@@ -2,6 +2,10 @@
 PCBs for the LDD-L series of LED drivers
 Designed with EasyEDA
 
+
+Master developement thread/discussion here- https://www.reef2reef.com/threads/some-pcb-design-ideas-for-diy-ldd-l-driver-based-builds.545966/
+
+
 A set of PCBs for the LDD300L-LDD700L drivers, multiple versions are available, with four ("nano") and eight ("8up")channels being the main focus of the project. Both an "EZ" and "PRO" version are currently finished, with the main differences being the type of power and PWM inputs used. 
 
 "EZ" boards feature onboard TRS/audio stereo jacks for PWM input, and a DC barrel jack for power. A set of headers is provided to allow parallel connection of each channel, allowing two channel control on the four channel board, and four channel control on the eight channel board. The DC jack is Kobiconn 163-179PH-EX, the TRS jack is Switchcraft 35RAPC2BV4, both available at Mouser.
