@@ -38,3 +38,6 @@ Back-burner designs-
 LDD-L 16up board (I think stacking 8ups makes a bit more sense, I may revisit later)
 
 Suggestions on improvement or features are encouraged!
+
+
+06-07-2019- Fixed an issue with grounded pins on the 8up boards, and uploaded new files
